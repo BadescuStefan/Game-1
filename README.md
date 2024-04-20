@@ -11,7 +11,7 @@ To begin your adventure, follow these simple steps:
 Start by cloning this repository to your local machine using the following command in your terminal:
 
 ```bash
-   git clone https://github.com/username/lost-treasure-quest.git
+   git clone https://github.com/username/Game-1.git
 ```
 Be sure to replace "username" with your GitHub username
 
